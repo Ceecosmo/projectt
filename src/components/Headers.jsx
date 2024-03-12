@@ -7,7 +7,7 @@ function Headers() {
 
 {/* bg-body-tertiary */}
 
-<nav className="fixed-top navbar navbar-expand-lg bg-dark  "style={{ height: '70px'}} >
+<nav className="fixed-top navbar navbar-expand-lg bg-dark >
   <div className="container" >
     <a className=" navbar-brand" href="/" ><img src={LOGO} /></a>
     <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent " aria-expanded="false" aria-label="Toggle navigation ">
